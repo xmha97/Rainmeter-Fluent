@@ -1,4 +1,4 @@
 # Rainmeter-Fluent
 Fluent skin for Rainmeter
 
-![alt text](https://raw.githubusercontent.com/amirrammari/Rainmeter-Fluent/master/Preview.png "Logo Title Text 1")
+![Rainmeter](https://raw.githubusercontent.com/amirrammari/Rainmeter-Fluent/master/Preview.png "Preview")
